@@ -1,0 +1,18 @@
+HTML5中国站
+首页业务范围新闻关于我们联系我们
+我们/We
+
+标准通用标记语言下的一个应用HTML标准自1999年12月发布的HTML4.01后，后继的HTML5和其它标准被束之高阁，为了推动Web标准化运动的发展，一些公司联合起来，成立了一个叫做 Web Hypertext Application Technology Working Group （Web超文本应用技术工作组 -WHATWG） 的组织。WHATWG 致力于 Web 表单和应用程序，而W3C（World Wide Web Consortium，万维网联盟） 专注于XHTML2.0。在 2006 年，双方决定进行合作，来创建一个新版本的 HTML。
+
+支持Html5的浏览器包括Firefox（火狐浏览器），IE9及其更高版本，Chrome（谷歌浏览器），Safari，Opera等；国内的遨游浏览器（Maxthon），以及基于IE或Chromium（Chrome的工程版或称实验版）所推出的360浏览器、搜狗浏览器、QQ浏览器、猎豹浏览器等国产浏览器同样具备支持HTML5的能力。
+
+新闻/News
+ 
+HTML5会是下一个风口吗？
+2015-05-14
+2014年10月29日，万维网联盟泪流满面地宣布，经过几乎8年的艰辛努力，HTML5标准规范终于最终制定完成了，并已公开发布。
+ 
+              
+关于我们 | HTML5论坛 | 友情链接 | 手机版 | 站长统计
+Copyright @HTML5中国 All Right Reserved. Powered by Yinhe.
+京ICP备1111111号-1 京公网安备：11011111111111号
